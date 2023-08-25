@@ -1,12 +1,13 @@
 ### Hey there 👋
-My name is Anthony and I'm a *huge* tech enthusiast. I love coding my ideas into reality and gaming my pain out of it. My passion for computers has flourished from boredom and curiosity over the years. I toyed with website builders as a preteen and eventually discovered the joy of creation with HTML/CSS/JS. Web development is pretty cool, I plan on pursuing a career with it and maybe dabble in some IT fields like Networking—because it's a fascinating concept to me : )
-- 🔭 I’m currently working on ... deploying a REST API with AWS
-- 🌱 I’m currently learning ... Docker Compose
-- 👯 I’m looking to collaborate on ... Android development!
+My name is Anthony. I'm a tech enthusiast that loves coding ideas into reality. My passion for computers has flourished from boredom and curiosity during my childhood. I toyed with website builders in highschool and progressively got more hands-on with HTML/CSS/JS. Since then I have been nurturing my webdev niche for my career trajectory, and have recently gained industry experience in the field designing customer-facing apps for a business as well as provisioning the underlying infrastructure involved.
+
+I am also interested in Network/System administration roles and have been studying cloud technologies for the AWS Solutions Architect cert.
+
+- 🔭 I’m currently working on ... developer portfolio
+- 🌱 I’m currently learning ... Vue.js
   
 When I'm not coding, I like to
-- 🎮 Play Battlefield 1
+- 🏘️ Read about Real Estate
+- 📈 Learn new skills & trends
 - 🍃 Watch the trees rustle
 - 💻 Think about how I could be coding
-
-Feel free to reach out for a quick chat or game night 🦉
